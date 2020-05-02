@@ -22,6 +22,7 @@ With NVM installed:
 
 ```shell
 nvm use
+make install
 make run
 ```
 
