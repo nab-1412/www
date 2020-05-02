@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "www",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "NAB's website!",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "austinjalexander",
   "dependencies": {
     "gatsby": "^2.21.0",
     "gatsby-image": "^2.4.0",
@@ -36,9 +36,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/nab-1412/www"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/nab-1412/www/issues"
   }
 }
