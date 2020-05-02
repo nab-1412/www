@@ -22,7 +22,21 @@ With NVM installed:
 
 ```shell
 nvm use
-npm run develop
+make run
+```
+
+### Build
+
+```shell
+nvm use
+make
+```
+
+### Serve
+
+```shell
+nvm use
+make serve
 ```
 
 ---
