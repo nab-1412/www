@@ -12,7 +12,16 @@ What we used for initialization:
 
 ### Running
 
+If you don't have NVM installed:
+
 ```shell
+brew install nvm
+```
+
+With NVM installed:
+
+```shell
+nvm use
 npm run develop
 ```
 
