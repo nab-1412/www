@@ -10,6 +10,12 @@ What we used for initialization:
 ./node_modules/.bin/gatsby new www
 ```
 
+### Running
+
+```shell
+npm run develop
+```
+
 ---
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
